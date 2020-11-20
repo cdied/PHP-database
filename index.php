@@ -8,14 +8,11 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <title>Document</title>
 </head>
-
-<!--  xJNqUDKeg1  -->
-
 <body>
     
     <!-- main container -->
     <div class="container-fluid p-5" id="body">
-
+        <!-- welcome text - header -->
         <div class="col p-3 text-center">
             <h3>Welcome to MySQL database</h3>
         </div>
