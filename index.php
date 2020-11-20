@@ -1,3 +1,8 @@
+<!--
+        PHP Database 
+        author: Sayed Mohammad Rezaie 
+        github: @cdied
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
