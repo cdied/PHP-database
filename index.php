@@ -82,7 +82,7 @@
                             <option value="admin">Admin</option>
                         </select>
                     </div>
-                    <br>
+
                     <input class="btn btn-primary" type="submit" value="Submit">
                 </form>
             </div>
