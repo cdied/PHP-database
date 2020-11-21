@@ -5,7 +5,7 @@
 ----------------------------------------------------
 Preview : http://database.freecluster.eu/
 ----------------------------------------------------
-* HTML, Bootstrap 4, JS
+* HTML, PHP, MySQL, Bootstrap 4
 ----------------------------------------------------
 description:
 * simple UI to have overview over database
