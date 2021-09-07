@@ -3,8 +3,6 @@
 * github: @cdied
 * Show table, Insert data, Update data, Delete data.
 ----------------------------------------------------
-Preview : http://database.freecluster.eu/
-----------------------------------------------------
 * HTML, PHP, MySQL, Bootstrap 4
 ----------------------------------------------------
 description:
